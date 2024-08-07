@@ -1,2 +1,2 @@
-supersonicbi/supersonic:0.9.4:-latest
+wcjiang/linux-command:latest
 

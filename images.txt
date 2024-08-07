@@ -1,1 +1,1 @@
-mysql:8.0
+chromadb/chroma:0.5.3

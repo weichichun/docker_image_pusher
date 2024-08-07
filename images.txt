@@ -1,1 +1,1 @@
-supersonicbi/chromadb/chroma:latest
+chromadb/chroma:latest

@@ -1,1 +1,1 @@
-supersonicbi/supersonic:latest
+supersonicbi/chromadb/chroma:latest

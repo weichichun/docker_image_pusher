@@ -1,1 +1,1 @@
-supersonicbi/supersonic:0.9.4:-lastest
+supersonicbi/supersonic:0.9.4:lastest

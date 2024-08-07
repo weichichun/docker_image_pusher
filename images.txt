@@ -1,1 +1,1 @@
-supersonicbi/supersonic:0.9.4-SNAPSHOT:-latest
+supersonicbi/supersonic:latest
